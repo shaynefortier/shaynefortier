@@ -1,8 +1,8 @@
-# Meet Shayne the redhead
+# Meet Shayne the redhead #
 
 I'm a front-end developer who just got out of school, however I started to learn the basic web languages for more than 15 years. I'm constantly looking to be better at code and design.
 
-## Mastered languages and frameworks
+## Mastered languages and frameworks ##
 
 - ![](https://github.com/shaynefortier/shaynefortier/assets/109255560/fc04434e-f1c6-4c9c-8069-3a5eb024620e) HTML
 - ![](https://github.com/shaynefortier/shaynefortier/assets/109255560/e4b2147d-d13f-4016-9181-b24cb66305b6) CSS
@@ -15,16 +15,29 @@ Français
 - ![](https://github.com/shaynefortier/shaynefortier/assets/109255560/499a8db3-dbb3-41f5-92af-61dfa97a4bb9) TypeScript
 - ![mdi--wordpress](https://github.com/shaynefortier/shaynefortier/assets/109255560/00dc21f2-fa7e-4a49-96fc-4d7ef54abcb2) WordPress
 - ![vscode-icons--file-type-astro](https://github.com/shaynefortier/shaynefortier/assets/109255560/1546ffd8-5647-49cf-9d77-838a09593b4e) Astro
+- ![vscode-icons--file-type-less](https://github.com/user-attachments/assets/e1b924b4-bad7-47e6-9da0-32ce74508c1f) Less
 
+## Tools use ##
+### At work ###
+- VSCode
+- Git
+- BitBucket
+- Figma
+- Windsurf
 
-## Tools used
+### Personal Projects ###
+- VSCode
+- Git
+- Github
+- Penpot
+- Bun
+- Windsurf
 
--  VSCode
--  Git
--  Bun
--  NPM
--  Figma
--  Penpot
+### I can use ###
+- NPM
+- Vite
+- Gulp
+- Webpack
 
 <!--
 **shaynefortier/shaynefortier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
