@@ -19,25 +19,23 @@ Français
 
 ## Tools use ##
 ### At work ###
-- VSCode
-- Git
 - BitBucket
 - Figma
-- Windsurf
+- Cursor
 
 ### Personal Projects ###
 - VSCode
-- Git
 - Github
 - Penpot
 - Bun
-- Windsurf
+- Zed
 
 ### I can use ###
 - NPM
 - Vite
 - Gulp
 - Webpack
+- Windsurf
 
 <!--
 **shaynefortier/shaynefortier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
